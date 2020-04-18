@@ -107,7 +107,7 @@ var tweets = [
 ]
 
 function newTweet() {
-    console.log('success');
+    sa_event("newTweet")
     var randNum = Math.floor(Math.random() * (tweets.length));
     document.getElementById('random1').innerHTML = tweets[randNum];
     var randNum = Math.floor(Math.random() * (tweets.length));
