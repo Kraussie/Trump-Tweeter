@@ -107,11 +107,11 @@ var tweets = [
 ]
 
 function newTweet() {
-    sa_event("newTweet")
     var randNum = Math.floor(Math.random() * (tweets.length));
     document.getElementById('random1').innerHTML = tweets[randNum];
     var randNum = Math.floor(Math.random() * (tweets.length));
     document.getElementById('random2').innerHTML = tweets[randNum];
     var randNum = Math.floor(Math.random() * (tweets.length));
     document.getElementById('random3').innerHTML = tweets[randNum];
+    sa_event("newTweet");
 }
