@@ -62,7 +62,7 @@ var tweets = [
     "Excited https://t.co/tW8QKEJ5H",
     "The Obama Administration did NOT do any surveillance on Trump Tower prior to my election victory. @FoxNews",
     "FBI Director: Trump Campaign Was NEGATIVE https://t.co/xXvN5zTo1",
-    "The Post-ABC Poll shows that the Americans are more concerned about the economy than about President Trumpâ€™s fitness for office. @FoxNews",
+    "The Post-ABC Poll shows that the Americans are more concerned about the economy than about President Trump's fitness for office. @FoxNews",
     "#MakeAmericaSafeAgain #Trump2016 https://t.co/yv8BjXzpG6",
     "RT @LindseyGrahamSC: After so many years the American people are finally ready for a change. #Trump2016 #MakeAmericaSafeAgain",
     "RT @DonaldJTrumpJr: Thank you @realDonaldTrump for the incredible support! #MakeAmericaSafeAgain", 
